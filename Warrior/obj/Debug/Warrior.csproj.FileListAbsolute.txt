@@ -1,0 +1,12 @@
+c:\users\ruslan\documents\visual studio 2013\Projects\Warrior\Warrior\obj\Debug\Warrior.csprojResolveAssemblyReference.cache
+c:\users\ruslan\documents\visual studio 2013\Projects\Warrior\Warrior\bin\Debug\Warrior.exe
+c:\users\ruslan\documents\visual studio 2013\Projects\Warrior\Warrior\bin\Debug\Warrior.pdb
+c:\users\ruslan\documents\visual studio 2013\Projects\Warrior\Warrior\obj\Debug\Warrior.exe
+c:\users\ruslan\documents\visual studio 2013\Projects\Warrior\Warrior\obj\Debug\Warrior.pdb
+C:\Users\Ruslan\Documents\visual studio 2013\Projects\Warrior\Warrior\bin\Debug\Warrior.exe.config
+C:\Users\Ruslan\Documents\visual studio 2013\Projects\Warrior\Warrior\bin\Debug\mscorlib.dll
+C:\Users\Ruslan\Documents\visual studio 2013\Projects\Warrior\Warrior\bin\Debug\normidna.nlp
+C:\Users\Ruslan\Documents\visual studio 2013\Projects\Warrior\Warrior\bin\Debug\normnfc.nlp
+C:\Users\Ruslan\Documents\visual studio 2013\Projects\Warrior\Warrior\bin\Debug\normnfd.nlp
+C:\Users\Ruslan\Documents\visual studio 2013\Projects\Warrior\Warrior\bin\Debug\normnfkc.nlp
+C:\Users\Ruslan\Documents\visual studio 2013\Projects\Warrior\Warrior\bin\Debug\normnfkd.nlp
